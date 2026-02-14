@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Mt. Apo", "location": "Davao Del Sur", "difficulty": "7/9", "height": "2954 meters", "time": "2-3 days" },
+  { "id": 2, "name": "Mt. Pulag", "location": "Benguet", "difficulty": "3/9", "height": "2926 meters", "time": "4-6 hours" },
+  { "id": 3, "name": "Mt. Timbak", "location": "Kabayan, Benguet", "difficulty": "2/9", "height": "2717 meters", "time": "40 minutes" },
+  { "id": 4, "name": "Mt. Guiting-Guiting", "location": "Romblon", "difficulty": "9/9", "height": "2058 meters", "time": "3 days and 2 nights" },
+  { "id": 5, "name": "Mt. Pinatubo", "location": "Zambales", "difficulty": "2/9", "height": "1445 meters", "time": "8 hours" },
+  { "id": 6, "name": "Mt. Mariveles", "location": "Bataan", "difficulty": "4/9", "height": "1130 meters", "time": "10 hours" },
+  { "id": 7, "name": "Mt. Balingkilat", "location": "Subic, Zambales", "difficulty": "5/9", "height": "1100 meters", "time": "6 hours" },
+  { "id": 8, "name": "Mt. Dulang-Dulang", "location": "Bukidnon", "difficulty": "8/9", "height": "2938 meters", "time": "10 hours" }
+]
