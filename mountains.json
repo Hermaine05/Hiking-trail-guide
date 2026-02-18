@@ -6,5 +6,25 @@
   { "id": 5, "name": "Mt. Pinatubo", "location": "Zambales", "difficulty": "2/9", "height": "1445 meters", "time": "8 hours" },
   { "id": 6, "name": "Mt. Mariveles", "location": "Bataan", "difficulty": "4/9", "height": "1130 meters", "time": "10 hours" },
   { "id": 7, "name": "Mt. Balingkilat", "location": "Subic, Zambales", "difficulty": "5/9", "height": "1100 meters", "time": "6 hours" },
-  { "id": 8, "name": "Mt. Dulang-Dulang", "location": "Bukidnon", "difficulty": "8/9", "height": "2938 meters", "time": "10 hours" }
+  { "id": 8, "name": "Mt. Dulang-Dulang", "location": "Bukidnon", "difficulty": "8/9", "height": "2938 meters", "time": "10 hours" },
+
+  { "id": 9, "name": "Mt. Kitanglad", "location": "Bukidnon", "difficulty": "6/9", "height": "2899 meters", "time": "2 days" },
+  { "id": 10, "name": "Mt. Kalatungan", "location": "Bukidnon", "difficulty": "7/9", "height": "2880 meters", "time": "2 days" },
+  { "id": 11, "name": "Mt. Talinis (Cuernos de Negros)", "location": "Negros Oriental", "difficulty": "6/9", "height": "1903 meters", "time": "2 days" },
+  { "id": 12, "name": "Mt. Mayon", "location": "Albay", "difficulty": "6/9", "height": "2463 meters", "time": "1 day" },
+  { "id": 13, "name": "Mt. Isarog", "location": "Camarines Sur", "difficulty": "7/9", "height": "1966 meters", "time": "2 days" },
+  { "id": 14, "name": "Mt. Arayat", "location": "Pampanga", "difficulty": "5/9", "height": "1033 meters", "time": "6-8 hours" },
+  { "id": 15, "name": "Mt. Banahaw", "location": "Quezon / Laguna", "difficulty": "4/9", "height": "2158 meters", "time": "1 day" },
+
+  { "id": 16, "name": "Mt. Batulao", "location": "Nasugbu, Batangas", "difficulty": "4/9", "height": "811 meters", "time": "5-6 hours" },
+  { "id": 17, "name": "Mt. Talamitam", "location": "Nasugbu, Batangas", "difficulty": "3/9", "height": "700 meters", "time": "3-4 hours" },
+  { "id": 18, "name": "Mt. Maculot (Rockies)", "location": "Cuenca, Batangas", "difficulty": "2/9", "height": "930 meters", "time": "2-3 hours" },
+  { "id": 19, "name": "Mt. Manabu", "location": "Sto. Tomas, Batangas", "difficulty": "2/9", "height": "760 meters", "time": "3 hours" },
+  { "id": 20, "name": "Mt. Gulugod Baboy", "location": "Mabini, Batangas", "difficulty": "2/9", "height": "525 meters", "time": "2 hours" },
+
+  { "id": 21, "name": "Mt. Makiling", "location": "Laguna", "difficulty": "5/9", "height": "1090 meters", "time": "4-6 hours" },
+  { "id": 22, "name": "Mt. Banahaw de Laguna", "location": "Nagcarlan, Laguna", "difficulty": "4/9", "height": "2158 meters", "time": "1 day" },
+  { "id": 23, "name": "Mt. Romelo", "location": "Famy, Laguna", "difficulty": "2/9", "height": "300 meters", "time": "2 hours" },
+  { "id": 24, "name": "Mt. Manalmonan", "location": "Los Baños, Laguna", "difficulty": "3/9", "height": "500 meters", "time": "3 hours" },
+  { "id": 25, "name": "Mt. Atimla", "location": "Luisiana, Laguna", "difficulty": "4/9", "height": "1137 meters", "time": "5 hours" }
 ]
