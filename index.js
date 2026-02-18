@@ -59,7 +59,7 @@ app.get('/api/search/location', (req, res) => {
     });
 });
 
-//Get Short Hikes (Quick hikes)
+//Get Short Hikes 
 app.get('/api/trails/quick', (req, res) => {
     const sql = "SELECT * FROM trails WHERE estimated_time NOT LIKE '%day%'";
     db.query(sql, (err, results) => {
